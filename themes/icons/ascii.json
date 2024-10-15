@@ -24,6 +24,9 @@
   "apt": {
     "prefix": "apt"
   },
+  "brillo": {
+    "prefix": "o"
+  },
   "brightness": {
     "prefix": "o"
   },

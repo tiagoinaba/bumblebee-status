@@ -67,6 +67,9 @@
   "pacman": {
     "prefix": ""
   },
+  "brillo": {
+    "prefix": ""
+  },
   "brightness": {
     "prefix": ""
   },

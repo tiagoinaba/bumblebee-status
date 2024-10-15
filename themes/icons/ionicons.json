@@ -13,6 +13,7 @@
   "dnf": { "prefix": "\uf2be" },
   "apt": { "prefix": "\uf2be" },
   "pacman": { "prefix": "\uf2be" },
+  "brillo": { "prefix": "\u263c" },
   "brightness": { "prefix": "\u263c" },
   "load": { "prefix": "\uf13d" },
   "layout": { "prefix": "\uf38c" },
